@@ -8,10 +8,7 @@
 Discover the world of stunning scroll animations with this Next.js project! Rebuilding part of CodeSandbox's page, this application utilizes the power of Framer Motion, Tailwind CSS, and TypeScript. Experience smooth and captivating animations, interactive UI/UX, and advanced CSS concepts. Don't miss out on this extraordinary journey!  
 
 
-## Links
 
-- [🔗 Visit the live project running here!](https://nextjs-animations-ruddy.vercel.app/)
-- [🥡 CodeSandbox' version](https://projects.codesandbox.io/)
 
 ## Technical specifications ⚡️
 - **Next.js 13**
@@ -43,8 +40,3 @@ Enjoy the animations experience! 💙
 <br/>
 <hr/>
 
-**NOTE:** I am NOT affiliated with [CodeSandbox](https://projects.codesandbox.io/), but do think their website is an amazing showcase of Framer Motion's capabilities and a great example for other people to learn from. All of the svg's in `/public` are owned by CodeSandbox as well as all of the icons in `/src/icons`, they are only used as educational material here.
-
-### Design remains copyrighted by CodeSandbox, it can only be used for educational purposes.
-
-See the [LICENSE](/LICENSE.md) for more information about reusing this code.
